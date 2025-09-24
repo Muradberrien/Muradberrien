@@ -10,7 +10,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Course Careers Certification](https://m.youtube.com/watch?v=f_c7PrH3rX8&list=PLTZYG7bZ1u6o9sREwhYa0v1Ten-XMKXlL&index=2&pp=iAQB)
+- [Course Careers Certification](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
 
 - [IBM IT Support Technician](https://m.youtube.com/watch?v=BNbPsiCGQzw&pp=ygUOSWJtIGl0IHN1cHBvcnQ%3D)
 
