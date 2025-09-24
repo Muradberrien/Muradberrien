@@ -10,7 +10,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Course Careers IT Help Desk](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
+- [Course Careers IT Support Technician](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
 
 - [IBM IT Support Technician](https://m.youtube.com/watch?v=BNbPsiCGQzw&pp=ygUOSWJtIGl0IHN1cHBvcnQ%3D)
 
