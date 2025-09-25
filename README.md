@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Ticket System I.T Support Home Lab](https://docs.google.com/presentation/d/1-cSoRgXyz-1VgdUrbBhH-_uCBBKn_hskR11eE7B58_U/edit?usp=drivesdk)
+  - [Ticket System I.T Support Tech issue Home Lab](https://docs.google.com/presentation/d/1-cSoRgXyz-1VgdUrbBhH-_uCBBKn_hskR11eE7B58_U/edit?usp=drivesdk)
   
-  - [How to configure WinRM Over HTTPS on Windows Servers Home Lab](https://m.youtube.com/watch?v=LZpdTPJLXHo)
+  - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
     
   - [Configure Roles, Privileges and permissions in vCenter Server Home Lab](https://m.youtube.com/watch?v=r3W-WioLUq8)
 
