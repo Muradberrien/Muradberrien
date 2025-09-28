@@ -6,7 +6,7 @@
   
   - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
     
-  - [osTicket - Prerequisites and Installation](https://m.youtube.com/watch?v=r3W-WioLUq8)
+  - [osTicket - Prerequisites and Installation](https://github.com/Muradberrien/Hands-on-Lab-Basic-Script-within-Windows/tree/main)
 
 <h2>📄 Certifications</h2>
 
