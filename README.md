@@ -11,8 +11,10 @@
   - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
 
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Muradberrien/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
-    
-<h2>📄 Certifications</h2>
+
+- [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Muradberrien/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
+
+<h2>📄 Certifications</h2>)
 
 - [Course Careers IT Support Technician](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
 
