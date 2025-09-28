@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Implementing a Ticketing](System]https://github.com/Muradberrien/osTicket---Post-Configuration-Setup/tree/main)
-  
-  - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
-    
   - [osTicket - Prerequisites and Installation](https://github.com/Muradberrien/Hands-on-Lab-Basic-Script-within-Windows/tree/main)
 
+  - [osTicket - Post Configuration Setup](https://github.com/Muradberrien/osTicket---Post-Configuration-Setup/tree/main)
+
+  - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
+    
 <h2>📄 Certifications</h2>
 
 - [Course Careers IT Support Technician](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
