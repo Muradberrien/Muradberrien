@@ -10,7 +10,7 @@
 
   - [osTicket - LifeCycle Examples Setup](https://github.com/Muradberrien/osTicket---LifeCycle-Examples-Setup/tree/main)
 
-  - [osTicket Customer Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
+  - [osTicket - Customer Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
 
 <h4>Microsoft Azuze</h4>
 
