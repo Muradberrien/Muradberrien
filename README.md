@@ -14,7 +14,7 @@
 
 <h4>Microsoft Azuze</h4>
 
-  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Muradberrien/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Muradberrien/Azure-network-protocol/tree/main)
 
 - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Muradberrien/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
