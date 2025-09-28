@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h4>osTicket(Help Desk Ticketing System)</h4>
+
   - [osTicket - Prerequisites and Installation](https://github.com/Muradberrien/Hands-on-Lab-Basic-Script-within-Windows/tree/main)
 
   - [osTicket - Post Configuration Setup](https://github.com/Muradberrien/osTicket---Post-Configuration-Setup/tree/main)
@@ -9,6 +11,8 @@
   - [osTicket - LifeCycle Examples Setup](https://github.com/Muradberrien/osTicket---LifeCycle-Examples-Setup/tree/main)
 
   - [Ticket System I.T Support Account locked Home Lab](https://docs.google.com/presentation/d/1-_0OLT2IVQqkNZiXKkS9j0byKkpfrCO-tfpEpDAdPGo/edit?usp=drivesdk)
+
+<h4>Microsoft Azuze</h4>
 
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Muradberrien/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
 
@@ -28,7 +32,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/muradberriien
-[youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/murad.berrien/
 [linkedin]: https://linkedin.com/in/muradberrien
 
