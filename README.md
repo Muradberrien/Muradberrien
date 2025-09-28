@@ -18,7 +18,7 @@
 
 - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/Muradberrien/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
-<h2>📄 Certifications</h2>)
+<h2>📄 Certifications</h2>
 
 - [Course Careers IT Support Technician](http:docs.google.com/presentation/d/106Q5ZZTQqPMBdxFbs7UTu1kyK_HRHy4LW0aWIO_id58/edit?usp=drivesdk)
 
