@@ -4,7 +4,7 @@
 
 <h4>osTicket(Help Desk Ticketing System)</h4>
 
-  - [osTicket - Prerequisites and Installation](https://github.com/Muradberrien/Hands-on-Lab-Basic-Script-within-Windows/tree/main)
+  - [osTicket - Prerequisites and Installation](https://github.com/Muradberrien/osTicket-prerequisites-/tree/main)
 
   - [osTicket - Post Configuration Setup](https://github.com/Muradberrien/osTicket---Post-Configuration-Setup/tree/main)
 
